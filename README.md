@@ -25,8 +25,7 @@ Backend service powering Jiji's search & respond flow for VeidaLabs.
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
-cd learn-with-jiji-backend
+git clone https://github.com/chandan-chaudhary/vedialabs-jiji.git
 ```
 
 ### 2. Install Dependencies
