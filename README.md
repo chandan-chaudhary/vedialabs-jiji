@@ -163,7 +163,7 @@ Authorization: Bearer <access_token>
 Content-Type: application/json
 
 {
-  "question": "Explain RAG"
+  "question": "Explain Bitcoin"
 }
 ```
 

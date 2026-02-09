@@ -5,7 +5,7 @@ import jijiRoutes from "./routes/execute-query/jiji.route.js";
 const app = express();
 app.use(express.json());
 
-app.get("/", (req, res) => {
+app.get("/api", (req, res) => {
   res.send("Health Check: Server is running");
 });
 
