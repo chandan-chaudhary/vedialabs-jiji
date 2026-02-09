@@ -1,0 +1,7 @@
+
+/node_modules
+/dist
+.env
+
+# for testing api (development purposes)
+/rest-client
